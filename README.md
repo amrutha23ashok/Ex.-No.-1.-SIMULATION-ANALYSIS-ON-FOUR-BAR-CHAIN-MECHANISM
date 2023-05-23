@@ -56,8 +56,8 @@
 ![image](https://github.com/amrutha23ashok/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120772913/2d939cec-9c54-4e10-9cd5-31352e1a46c6)
 
 
-### Name:
-### Register Number: 
+### Name:Amrutha A
+### Register Number: 212222110004
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
